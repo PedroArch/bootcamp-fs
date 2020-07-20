@@ -1,0 +1,18 @@
+Capítulo 01 - Aula 04 - Noções de HTML
+=======================================
+
+Check ✓
+
+(✓) Criar página HTML para montar um currículo
+(✓) Mostrar as seguintes tags
+  - h1
+  - img
+  - p
+  - ul li
+  - table tr td th
+  - a - https://www.linkedin.com/in/rrgomide/
+  - div
+  - span
+  - strong
+  - em
+(✓) Mostrar diferença entre caminho absoluto x caminho relativo

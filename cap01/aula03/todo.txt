@@ -1,0 +1,7 @@
+Capítulo 01 - Aula 03 - live-server
+=======================================
+
+Check ✓
+
+(✓) Instalar live-server de forma global com "npm install -g live-server"
+(✓) Criar HTML de exemplo e mostrar execução do live-server

@@ -1,0 +1,37 @@
+Capítulo 01 - Aula 07 - Estruturas
+=======================================
+
+Check ✓
+
+Parte 01 - Estruturas de decisão - if/else
+-------------------------------------------
+(✓) Abrir developer Tools do Chrome
+(✓) Testar algumas proposições lógicas
+(✓) Abrir script.js e testar implementações com if/else 
+(✓) Implementar algoritimo de comparação entre dois numeros
+
+Parte 02 - Estruturas de decisão - switch
+-----------------------------------------
+(✓) Implementar exemplo de validação de dia da semana com if/else
+(✓) Refatorar com switch
+
+Parte 03 - Estruturas de decisão - ternário
+-------------------------------------------
+(✓) Reimplementar comparação entre dois números com operador ternário
+
+Parte 04 - Estruturas de repetição - while
+-----------------------------------------------
+(✓) Mostrar exemplo de somatório de números até x
+
+Parte 05 - Estruturas de repetição - do... while
+-----------------------------------------------
+(✓) Mostrar exemplo de somatório de números até x
+
+Parte 06 - Estruturas de repetição - for
+-----------------------------------------------
+(✓) Mostrar exemplo de somatorio de números até x
+
+Parte 07 - Funções
+------------------
+(✓) Criar novo arquivo de script para organizar melhor o código
+(✓) Implementar algumas funções

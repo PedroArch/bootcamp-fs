@@ -1,0 +1,65 @@
+Capítulo 01 - Aula 06 - Introdução CSS
+=======================================
+
+Check ✓
+
+Parte 01 - Apresentando o JavaScript
+------------------------------------
+(✓) Copiar projeto da aula passada aula05
+(✓) Criar arquivo script.js na pasta js
+(✓) Vincular o HTML ao JavaScript atraves da tag <script>
+(✓) Testar o funcionamento do JavaScript com console.log
+
+Parte 02 - Tipos, valores e variáveis
+-------------------------------------
+(✓) Abrir o Developer Tools no Chrome
+(✓) Mostrar os principais tipos e valores
+  (✓) number
+  (✓) string
+  (✓) boolean
+  (✓) object / array
+  (✓) null
+  (✓) undefined
+  (✓) Falsy => false, 0, null, undefined
+  (✓) Truthy => true, 1, [1], {id:1}
+(✓) Criar e utilizar variáveis
+
+Parte 03 - Operadores, console e cometários
+-------------------------------------------
+(✓) Abrir o Developer Tools no Chrome
+(✓) Mostrar os principais Operadores
+  (✓)Operadores Aritméticos
+    (✓) Soma +
+    (✓) Subtração -
+    (✓) Multiplicação *
+    (✓) Divisão /
+    (✓) Exponeciação **
+    (✓) Resto de divisão %
+    (✓) Incremento ++
+    (✓) Decremento --
+  (✓)Operadores de Atribuição
+    (✓) Atribuição padrão =
+    (✓) Atribuição com operaçao += -= *= /= %=
+    (✓)Aritméticos
+    (✓) Soma +
+    (✓) Subtração -
+    (✓) Multiplicação *
+    (✓) Divisão /
+    (✓) Exponeciação **
+    (✓) Resto de divisão %
+    (✓) Incremento ++
+    (✓) Decremento --
+  (✓)Operadores de Comparação
+    (✓) Igualdade ===
+    (✓) Diferença !==
+    (✓) Maior >
+    (✓) Menor <
+    (✓) Maior ou igual >=
+    (✓) Menor ou igual <=
+  (✓)Operadores Lógicos
+    (✓) E &&
+    (✓) OU ||
+    (✓) Negação !
+(✓) Mostrar o console
+(✓) Mostrar exemplos de Comentários em script.js
+
