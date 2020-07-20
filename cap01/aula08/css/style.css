@@ -1,0 +1,56 @@
+body {
+  padding: 10px;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.dados-pessoais {
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+#foto-perfil {
+  width: 200px;
+  height: 200px;
+}
+
+ul {
+  margin-left: 30px;
+  list-style-type: disc;
+  padding-top: 30px;
+}
+
+table,
+tr,
+td,
+th {
+  padding: 5px;
+  border: 1px solid gray;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+}
+
+th {
+  background-color: #ddd;
+}
+
+#quote {
+  margin-left: 10px;
+  font-style: italic;
+}
+
+#linkdin {
+  margin-left: 10px;
+}
+
+.emphasys {
+  font-weight: bold;
+  color: darkred;
+}

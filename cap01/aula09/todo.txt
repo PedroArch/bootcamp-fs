@@ -1,0 +1,25 @@
+Capítulo 01 - Aula 09 - Formularios e manipulação de eventos
+============================================================
+
+Check ✓
+
+Parte 01 - Formulários
+------------------------
+(✓) Criar um formulário de cadastro simples 
+    exemplificando alguns elementos importantes
+  (✓) textarea
+  (✓) input
+    (✓) text
+    (✓) checkbox
+    (✓) radio
+    (✓) email
+    (✓) submit
+    (✓) date       
+(✓) Manipular o formulário com JavaScript
+
+Parte 02 - Manipulação de eventos
+---------------------------------
+(✓) Utilizar o formulário de exemplo
+(✓) Tornar o formulário mais interativo
+    através da implementação de alguns eventos
+(✓) Exemplificar o event.preventDefault();

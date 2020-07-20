@@ -1,0 +1,9 @@
+Capítulo 01 - Aula 08 - Manipulação do DOM
+=======================================
+
+Check ✓
+
+(✓) Trazer último projeto de currículo
+(✓) Manipular elementos com querySelector
+(✓) Manipular elementos com querySelectorAll
+(✓) Certificar-se de que foi manipulada a propriedade "textContent"
