@@ -1,0 +1,64 @@
+{
+  "podcasts": {
+    "nerdcast": {
+      "title": "",
+      "image": "",
+      "id": "",
+      "description": ""
+    },
+    "flow": {
+      "title": "",
+      "image": "",
+      "id": "",
+      "description": ""
+    },
+    "jogabilidade": {
+      "title": "",
+      "image": "",
+      "id": "",
+      "description": ""
+    },
+    "motherchip": {
+      "title": "",
+      "image": "",
+      "id": "",
+      "description": ""
+    },
+    "nautilus": {
+      "title": "",
+      "image": "",
+      "id": "",
+      "description": ""
+    },
+    "poucas": {
+      "title": "",
+      "image": "",
+      "id": "",
+      "description": ""
+    },
+    "projetohumanos": {
+      "title": "",
+      "image": "",
+      "id": "",
+      "description": ""
+    },
+    "scicast": {
+      "title": "",
+      "image": "",
+      "id": "",
+      "description": ""
+    },
+    "serial": {
+      "title": "",
+      "image": "",
+      "id": "",
+      "description": ""
+    },
+    "tecnocast": {
+      "title": "",
+      "image": "",
+      "id": "",
+      "description": ""
+    }
+  }
+}
