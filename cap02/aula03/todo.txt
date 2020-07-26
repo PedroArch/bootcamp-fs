@@ -1,0 +1,14 @@
+Aula 03 - Projeto Node.js e Debbug 
+===================
+
+Check ✓
+-------
+(✓) Criar projeto node.js
+(✓) trabalhar com o pack JSON criado
+(✓) Criar index.js
+(✓) Executar index.js no console
+(✓) Criar uma execução com parametro passado inline
+(✓) Debuggar o código sem parametro
+(✓) Debuggar o código com parametro
+
+

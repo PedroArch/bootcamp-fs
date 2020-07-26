@@ -1,0 +1,22 @@
+Aula 01 - Frontend, Backend e API
+=========================================
+
+Frontend
+--------
+- É a parte da aplicação que lida com o usuário na sua aplicação fazendo
+solicitações ao Backend
+
+Backend
+-------
+- É a parte da aplicação que lida com as solicitações do Frontend que o usuário
+não tem acesso que interage com o servidor ficando hospedada nele.
+
+API
+---
+- É um série serviço que faz a ligação entre o Frontend e o Backend.
+Cada um dos serviços são conhecidos como webservices. webservices somente
+transmite informações, dependendo do protocolo HTML e um formato como JSON.
+
+- APIs utilizam os sitema REST para realziars seus serviços e para entrega-los
+ela utiliza as URIs que são seus endpoints. Além do endpoint o cliente precisa
+informar o método HTTP (GET, POST, PUT, DELETE)

@@ -1,0 +1,7 @@
+Aula 02 - Node.js
+=========================================
+
+- non-blocking-thread
+- single-thread
+- Se beneficia da programação assincrona do JS com callbacks
+- Utiliza o motor V8 do chrome para rodar o JS no servidor.
