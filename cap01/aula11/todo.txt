@@ -1,0 +1,9 @@
+Aula 11 - JavaScript Moderno
+============================
+
+Check ✓
+
+(✓) Exemplificar diferença entre var x let x const
+(✓) Comparar functions com arrow functions (reduzir ao máximo a escrita)
+(✓) Exemplificar template literals
+(✓) Exemplificar default parameters em funções

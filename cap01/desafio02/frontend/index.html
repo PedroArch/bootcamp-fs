@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+    <link rel="stylesheet" href="./css/style.css" />
+
+    <title>Searcher</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="center">Pesquisa de Usuário</h1>
+      <div id="spinner" class="flex-row center">
+        <div class="preloader-wrapper big active">
+          <div class="spinner-layer spinner-red-only">
+            <div class="circle-clipper left">
+              <div class="circle"></div>
+            </div><div class="gap-patch">
+              <div class="circle"></div>
+            </div><div class="circle-clipper right">
+              <div class="circle"></div>
+            </div>
+          </div>
+        </div>
+        <p>Carregando...</p>
+      </div>
+
+      <div class="serchBox">
+        <input type="text" placeholder="Busca" id="inputSearch" />
+        <button class="waves-effect waves light btn" id="buttonSearch">
+          Buscar
+        </button>
+      </div>
+
+      <div class="container-tabs">
+        <div class="results">
+          <h4 id="results-title"><span id="countResults"></span></h3>
+          <div id="resultsTab"></div>
+        </div>
+        <div class="stats">
+          <h4 id="stats-title">Estatísticas</h4>
+
+          <div id="statsTab">
+            <p class="data">Total de Homens:<span id="maleGender"></span></p>
+            <p class="data">Total de Mulheres:<span id="femaleGender"></span></p>
+            <p class="data">Total idades:<span id="countAge"></span></p>
+            <p class="data">Média das idades:<span id="avarageAge"></span></p>
+          </div>
+        </div>
+      </div>
+  </div>
+
+    <script src="./js/script.js"></script>
+  </body>
+</html>

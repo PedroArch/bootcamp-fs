@@ -1,0 +1,23 @@
+To Do List Desafio 02 - Search Local
+====================================
+
+Check ✓
+
+() Implementar lógica com JavaScript
+  (✓) Implementar o materialize
+  (✓) Implementar o Spiner/materializar
+  (✓) Criar variaveis de estado
+  () Função FetchUsers() e transformação para obtenção de  
+  name(first, sur),age, pic, gender. Ao final, invocar render()
+  () Função Render, com invocação a funçoes menores:
+  renderResultsList, renderStatistics, handleSearchButton.
+  () Função renderResultsLis com template literals
+  () Função renderStatistics com template literals e reduce
+  () Função handleSearchButton com querySelectorAll e foreach adicionando
+  listener no botão passando button.id;
+  () Função HideSpinner
+() Estilizar com CSS
+() Isolar requisições em Promises
+() Fazer com que as promises demorem a ser executadas(3s)
+() Usar "console.time" e "console.timeEnd"para medir o tempo
+() Implementar Promise.all

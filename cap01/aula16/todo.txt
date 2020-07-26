@@ -1,0 +1,9 @@
+Aula 15 - Requisições HTTP com JavaScript
+=========================================
+
+Check ✓
+
+(✓) Acessar API com Fetch - https://api.github.com/users/PedroArch
+(✓) Criar promisse para divisão de 2 números
+(✓) Testar e explicar .then() e .catch()
+(✓) Converter código para asyn/await

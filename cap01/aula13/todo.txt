@@ -1,0 +1,10 @@
+Aula 13 - Rest/Spread operator e destructuring
+==============================================
+
+Check ✓
+
+(✓) Usaer users.js 
+(✓) Exemplificar ... como spread (concatenar 2 objetos [Mr + Ms])
+(✓) Exemplificar ... como rest (criar função soma/multiplicação "infinite")
+(✓) Exemplificar destructuring (criar variáveis a partir do objeto)
+

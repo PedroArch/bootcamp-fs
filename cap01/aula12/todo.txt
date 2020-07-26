@@ -1,0 +1,18 @@
+Aula 12 - Manipulação de arrays
+===============================
+
+Check ✓
+
+(✓) Utilizar o arquivo people.js 
+(✓) Exemplificar:
+  (✓) map (transformar array em objeto com nome e email)
+  (✓) filter (maiores de 50 anos)
+  (✓) forEach (incluir nova nameSize no objeto)
+  (✓) reduce (somar idades)
+  (✓) find (priemiro usuário de Minas Gerais)
+    *Retorna o primeiro
+  (✓) some (usuário do Amazonas)
+    *Retorna se existe
+  (✓) every (nat = 'BR')
+    *Retorna se TODOS atendem o requisito
+  (✓) sort (ordenar por nome e idade ASC e DESC)
