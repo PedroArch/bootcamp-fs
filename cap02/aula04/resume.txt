@@ -1,0 +1,11 @@
+Aula 04 - Node.js Event Loop
+=========================================
+
+- Filosfia de orientação de eventos
+- Trabalha de forma asyncrona, ao chegar a um evento async ele delega ao
+  OS executar ao ser concluido ele executa a callback enquanto isso a aplicação
+  segue a vida.
+- Event loop é um loop infinito que fica verificando se há um novo evento a ser 
+  realizado consultando a pilha (stack)
+- Maximiza a capacidade do processador não deixando o processamento preso em 
+  um evento.

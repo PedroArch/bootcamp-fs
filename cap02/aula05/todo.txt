@@ -1,0 +1,16 @@
+Aula 03 - Módulos do Node.js 
+============================
+
+Check ✓
+-------
+(✓) Iniciar um projeto Node.js "npm init -y"
+(✓) criar o operacao.js criar funções e exportar como commonJS
+(✓) criar o operacao.js criar funções e exportar como ES Modules
+
+(✓) Trabalhar com o file System módulo nativo que escreve e lê arquvios.
+
+
+
+
+
+
