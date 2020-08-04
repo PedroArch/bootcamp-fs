@@ -1,0 +1,14 @@
+import express from "express";
+
+const router = express.Router();
+
+router.get("/", (req, res) => {
+  console.log("GET /carros");
+  res.send("GET /carros");
+});
+
+router.get("/preco", (req, res) => {
+  res.send("GET /carros/preco");
+});
+
+export default router;

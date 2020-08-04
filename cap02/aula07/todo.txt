@@ -1,0 +1,20 @@
+Aula 07 - Express  
+=================
+
+Check ✓
+-------
+(✓) Inciar um projeto node
+(✓) Instalar Express
+(✓) Instalar nodemon
+(✓) Criar um api basico e executar com nodemon
+(✓) Instalar o Insomnia
+(✓) Criar um POST
+(✓) Debbugar
+
+
+
+
+
+
+
+
