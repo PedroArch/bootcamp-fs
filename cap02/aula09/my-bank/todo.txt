@@ -1,0 +1,12 @@
+Aula 08 - My Bank API
+=====================
+
+✓ Check
+---------
+(✓) iniciar o projeto node
+(✓) instalar o express
+(✓) type: module
+(✓) criar pasta routes
+(✓) criar o nodemon.json e colocar ignore nos arquivos *.json
+
+
