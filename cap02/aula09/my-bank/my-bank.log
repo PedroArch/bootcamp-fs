@@ -1,0 +1,35 @@
+2020-08-05T06:51:32.725Z [my-bank-api] info: API started and file created!
+2020-08-05T06:53:24.343Z [my-bank-api] info: API started and file created!
+2020-08-05T06:53:31.470Z [my-bank-api] error: POST /account ENOENT: no such file or directory, open 'C:\Users\pedro\dev\bootcamp-fullstack\cap02\aula09\my-bank\accounts.json'
+2020-08-05T06:55:44.703Z [my-bank-api] info: API started and file created!
+2020-08-05T06:56:00.097Z [my-bank-api] info: API started!
+2020-08-05T06:56:38.563Z [my-bank-api] info: API started!
+2020-08-05T06:57:49.411Z [my-bank-api] info: API started!
+2020-08-05T06:58:18.877Z [my-bank-api] info: API started!
+2020-08-05T06:58:32.008Z [my-bank-api] info: GET /account
+2020-08-05T06:58:40.750Z [my-bank-api] info: POST /account - {"id":1,"name":"Diego Mambrin","balance":"3230.50"}
+2020-08-05T06:58:54.021Z [my-bank-api] info: POST /account - {"id":2,"name":"Vartulio Oliveira","balance":"2000.50"}
+2020-08-05T06:59:05.528Z [my-bank-api] info: POST /account - {"id":3,"name":"Rodrigo Boff","balance":"5100.50"}
+2020-08-05T06:59:16.488Z [my-bank-api] info: PUTT /account - {"id":3,"name":"Rodrigo Boff","balance":"4190.50"}
+2020-08-05T06:59:23.828Z [my-bank-api] info: PATCH /account/updateBalance - {"id":3,"balance":"11182.50"}
+2020-08-05T06:59:32.274Z [my-bank-api] info: DELETE /account/1 - 1
+2020-08-05T07:00:19.880Z [my-bank-api] info: GET /account/2
+2020-08-05T07:04:38.724Z [my-bank-api] info: API started!
+2020-08-05T07:05:01.950Z [my-bank-api] error: POST /account Name e balance obrigatórios
+2020-08-05T07:05:12.201Z [my-bank-api] info: POST /account - {"id":4,"name":"Rodrigo Pigato","balance":"5100.50"}
+2020-08-05T07:05:25.115Z [my-bank-api] error: POST /account Name e balance obrigatórios
+2020-08-05T07:05:42.897Z [my-bank-api] info: POST /account - {"id":5,"name":"Vasco Orlando","balance":"52400.50"}
+2020-08-05T07:06:14.058Z [my-bank-api] info: API started!
+2020-08-05T07:07:35.744Z [my-bank-api] info: API started!
+2020-08-05T07:08:03.690Z [my-bank-api] info: POST /account - {"id":6,"name":"Ricardo Almeida","balance":"234.50"}
+2020-08-05T07:10:08.439Z [my-bank-api] info: API started!
+2020-08-05T07:10:25.392Z [my-bank-api] error: PUT /account Registro não encontrado
+2020-08-05T07:11:06.794Z [my-bank-api] info: API started!
+2020-08-05T07:11:35.532Z [my-bank-api] info: API started!
+2020-08-05T07:12:32.011Z [my-bank-api] info: API started!
+2020-08-05T07:13:35.302Z [my-bank-api] info: API started!
+2020-08-05T07:15:03.846Z [my-bank-api] info: API started!
+2020-08-05T07:15:25.987Z [my-bank-api] info: API started!
+2020-08-05T07:15:37.450Z [my-bank-api] info: API started!
+2020-08-05T07:15:47.031Z [my-bank-api] info: API started!
+2020-08-05T07:16:46.738Z [my-bank-api] info: API started!

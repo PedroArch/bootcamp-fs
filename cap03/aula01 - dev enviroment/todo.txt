@@ -1,0 +1,9 @@
+Aula 01 - Ambiente de desenvolvimento
+
+Check ✓
+
+(✓) VSCode e Extensão para React 
+  (ES7 React/Redux/GraphQL/React-Native snippets)
+(✓) Cmder
+(✓) Node.js 12.16.2
+(✓) Yarn 1.22.1

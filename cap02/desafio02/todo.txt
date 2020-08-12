@@ -1,0 +1,14 @@
+Desafio 02 - Grades control API
+✓ Check
+---------
+() Infra base
+() Criar o router
+() GET, POST, GET com ID
+() DELETE, PUT, PATCH
+() Tratamento erros
+() Gravação de logs
+() validação de campos
+() Cors
+() Documentação
+
+

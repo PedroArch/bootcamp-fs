@@ -1,0 +1,8 @@
+Aula 02 - Introdução ao React
+
+Check ✓
+
+(✓) Criação de um projeto com o create-react-app
+(✓) Navegação pelas principais pastas e arquivos do projeto
+(✓) Execução do projeto
+(✓) Modificação do código-fonte do projeto.

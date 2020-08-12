@@ -1,0 +1,30 @@
+{
+  "nextId": 7,
+  "accounts": [
+    {
+      "id": 2,
+      "name": "Vartulio Oliveira",
+      "balance": "2000.50"
+    },
+    {
+      "id": 3,
+      "name": "Rodrigo Boff",
+      "balance": "11182.50"
+    },
+    {
+      "id": 4,
+      "name": "Rodrigo Pigato",
+      "balance": "5100.50"
+    },
+    {
+      "id": 5,
+      "name": "Vasco Orlando",
+      "balance": "52400.50"
+    },
+    {
+      "id": 6,
+      "name": "Ricardo Almeida",
+      "balance": "234.50"
+    }
+  ]
+}

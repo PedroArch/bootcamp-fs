@@ -1,0 +1,61 @@
+Aula 03 - Desafio Guiado 1
+=============================
+
+Check ✓
+
+Introdução - Click Timer
+--------------------------
+(✓) JavaScript puro não performático
+() JavaScript puro performático
+() React com Class Components
+() Reac com Functional Components + Hooks
+
+
+JS puro não performático
+-------------------------
+(✓) Criar estrutra de pastas com index.html e pasta ./js com script.js
+(✓) Modificar titulo de index.html
+(✓) Certificar que extensão Live Server esteja devidamente instalada
+(✓) Montar JavaScript com window.addEventListener
+(✓) Criar estado da aplicação com array de cliques
+(✓) Implementar o cique do botão de forma que todas as <li>'s sejam preenchidas
+    novamente.
+(✓) Implementar função para formatar data/'hora em arquivo isolado, referenciar
+   arquivo antes de script.js e utiliza-la ao preencher o conteúdo de <li>
+(✓) Implementar funçãocão para mostrar em document.title a quantidade de cliques
+    no botão
+(✓) Mostrar no Chrome Dev Tools que tudo é recriado e o app é, portanto, pouco 
+    perfomático
+(✓) Enfatizar código que o React encapsula e abistra para o programador
+
+JS puro performático
+--------------------
+(✓) Reaproveitar projeto anterior
+(✓) Modificar o titulo da index.html
+( ✓) Modificar implementação do clique do botão de forma que seja inserida uma
+   nova li a cada clique
+(✓) Mostrar no Chorme Dev Tools que somente a nova li é criada, provando que o
+   app é mais performático
+
+React com Class Components
+--------------------------
+() Utilizar _react-projeto-base
+() Transformar App.js em Class Components
+() Definir this.state
+() Reaproveitar função para transformação de data/hora no formato
+   import/export
+() Implementar render()
+() Implementar clique no botão com método handleClick
+() Implementar componenteDidUpdate para atualizar document.title com a
+   quantidade de cliques.
+
+React com Hooks
+---------------
+() Utilizar _react-projeto-base
+() Definir o estado com useState
+() Reaporveitar função para transformação de data/hora no formato
+   import/export
+() Implementar renderização do componente
+() Implementar no botão com closere handleClick
+() Implementar useEffect para atualizar document.title. com a quantidade
+   de cliques.
