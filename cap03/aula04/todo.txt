@@ -1,0 +1,6 @@
+Classes com JavaScript - Aula 04
+================================
+
+[x] Criar classe mãe Animal com atributos "name"e método "speak";
+[x] Criar classes Cat e dog com atributo "type";
+[x] Demonstrar utilização de objetos dessas classes.

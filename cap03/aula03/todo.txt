@@ -6,7 +6,7 @@ Check ✓
 Introdução - Click Timer
 --------------------------
 (✓) JavaScript puro não performático
-() JavaScript puro performático
+(✓) JavaScript puro performático
 () React com Class Components
 () Reac com Functional Components + Hooks
 
@@ -39,14 +39,14 @@ JS puro performático
 
 React com Class Components
 --------------------------
-() Utilizar _react-projeto-base
-() Transformar App.js em Class Components
-() Definir this.state
-() Reaproveitar função para transformação de data/hora no formato
+(✓) Utilizar _react-projeto-base
+(✓) Transformar App.js em Class Components
+(✓) Definir this.state
+(✓) Reaproveitar função para transformação de data/hora no formato
    import/export
-() Implementar render()
-() Implementar clique no botão com método handleClick
-() Implementar componenteDidUpdate para atualizar document.title com a
+(✓) Implementar render()
+(✓) Implementar clique no botão com método handleClick
+(✓) Implementar componenteDidUpdate para atualizar document.title com a
    quantidade de cliques.
 
 React com Hooks
