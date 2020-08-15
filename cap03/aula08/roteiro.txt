@@ -1,7 +1,7 @@
 Aula 08 - roteiro - ✔ 
 =====================
 
-(✔) Criar projeto a partir do projeto base
+(✔ ) Criar projeto a partir do projeto base
 (✔) Em App.js, criar state com countries: []
 (✔) Em App.js, buscar todos os países em 
    componentDidMount e filtrar
@@ -13,11 +13,11 @@ Aula 08 - roteiro - ✔
    exibir cada país
 (✔) Criar componente Header que vai 
    incluir input e labels
-(✔) Fazer com que input filtre os 
+() Fazer com que input filtre os 
    dados de países
-(✔) Fazer com que os labels reajam ao filtro
-(✔) Criar pasta 'helpers' com o arquivo 
+() Fazer com que os labels reajam ao filtro
+() Criar pasta 'helpers' com o arquivo 
    formatHelpers.js
-(✔) Criar função para formatar valores 
+() Criar função para formatar valores 
    a partir de Intl
-(✔) Estilizar o app
+() Estilizar o app
