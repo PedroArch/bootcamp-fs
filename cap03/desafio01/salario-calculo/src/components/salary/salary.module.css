@@ -1,0 +1,46 @@
+.titleReact {
+  text-align: center;
+}
+
+.grossSalary {
+  color: #16a085;
+}
+
+.baseINSS[type="text"]:not(.browser-default):disabled {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+.discountINSS[type="text"]:not(.browser-default):disabled {
+  color: #e67e22;
+  font-weight: bold;
+}
+.baseIRPF[type="text"]:not(.browser-default):disabled {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+
+.discountIRPF[type="text"]:not(.browser-default):disabled {
+  color: #c0392b;
+  font-weight: bold;
+}
+
+.netSalary[type="text"]:not(.browser-default):disabled {
+  color: #16a085;
+  font-weight: bold;
+}
+
+.greyLabel {
+  color: rgb(133, 129, 129);
+}
+
+.bars {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.calculos {
+  display: flex;
+  flex-direction: row;
+}
